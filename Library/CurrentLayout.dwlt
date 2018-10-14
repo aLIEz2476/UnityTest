@@ -1,0 +1,2940 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1920
+    height: 997
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 947
+  m_MinSize: {x: 681, y: 342}
+  m_MaxSize: {x: 12006, y: 8042}
+  vertical: 0
+  controlID: 73
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1531
+    y: 0
+    width: 389
+    height: 947
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 12}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 379
+    height: 595
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 595
+    width: 1531
+    height: 352
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 19}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 997
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 977
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1531
+    height: 947
+  m_MinSize: {x: 404, y: 342}
+  m_MaxSize: {x: 8004, y: 8042}
+  vertical: 1
+  controlID: 74
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1531
+    height: 595
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
+  vertical: 0
+  controlID: 75
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 379
+    y: 0
+    width: 1152
+    height: 595
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 18}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: bb0f8bce6cf1f134084ddba3a243f58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1533
+    y: 92
+    width: 387
+    height: 926
+  m_PersistentViewDataDictionary: {fileID: 0}
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 0
+    isUserDataPresent: 0
+    lastCheckUserChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.0000000+00:00
+      cacheType: 7
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2018-04-23T16:13:11.5590510+09:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2018-04-23T16:14:07.7094452+09:00
+      cacheType: 1
+    currentBranch:
+      name: 
+      tracking: 
+    currentRemote:
+      name: origin
+      url: https://github.com/aLIEz2476/UnityTest.git
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: master
+      tracking: origin/master
+    remoteBranches:
+    - name: origin/master
+      tracking: '[None]'
+  changesView:
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[]'
+    treeScroll: {x: 0, y: 0}
+    treeChanges:
+      assets:
+        keys:
+        - 00000000000000004000000000000000
+        values:
+        - path: ProjectSettings\ProjectSettings.asset
+          label: ProjectSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\ProjectSettings.asset
+            fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+            projectPath: ProjectSettings\ProjectSettings.asset
+            originalPath: 
+            status: 3
+            staged: 0
+      folders:
+        keys:
+        - ProjectSettings
+        values:
+        - path: ProjectSettings
+          label: ProjectSettings
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: ProjectSettings
+        label: ProjectSettings
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        label: ProjectSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ProjectSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 3
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    gitStatusEntries:
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    changedFilesText: 1 changed file
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2018-08-07T14:34:03.2042544+09:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-08-07T14:36:30.2673659+09:00
+      cacheType: 5
+    lastLocksChangedEvent:
+      updatedTimeString: 2018-08-07T14:36:30.2454250+09:00
+      cacheType: 6
+  historyView:
+    hasItemsToCommit: 1
+    hasRemote: 1
+    currentRemoteName: origin
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: c07ccfee20cf7bdcf88a06b1ee18d236a12f6605
+        mergeA: 
+        mergeB: 
+        authorName: aLIEz2476
+        authorEmail: sakuragun11@gmail.com
+        commitEmail: sakuragun11@gmail.com
+        commitName: aLIEz2476
+        summary: 1
+        description: "1\r\n\r\n1"
+        timeString: 2018-04-23T16:14:06.0000000+09:00
+        commitTimeString: 2018-04-23T16:14:06.0000000+09:00
+        changes:
+        - path: ProjectSettings\AudioManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\AudioManager.asset
+          projectPath: ProjectSettings\AudioManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ClusterInputManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ClusterInputManager.asset
+          projectPath: ProjectSettings\ClusterInputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\DynamicsManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\DynamicsManager.asset
+          projectPath: ProjectSettings\DynamicsManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorSettings.asset
+          projectPath: ProjectSettings\EditorSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\GraphicsSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\GraphicsSettings.asset
+          projectPath: ProjectSettings\GraphicsSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\InputManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\InputManager.asset
+          projectPath: ProjectSettings\InputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NavMeshAreas.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NavMeshAreas.asset
+          projectPath: ProjectSettings\NavMeshAreas.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NetworkManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NetworkManager.asset
+          projectPath: ProjectSettings\NetworkManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\Physics2DSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\Physics2DSettings.asset
+          projectPath: ProjectSettings\Physics2DSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectVersion.txt
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectVersion.txt
+          projectPath: ProjectSettings\ProjectVersion.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\QualitySettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\QualitySettings.asset
+          projectPath: ProjectSettings\QualitySettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TagManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TimeManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TimeManager.asset
+          projectPath: ProjectSettings\TimeManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\UnityConnectSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\UnityConnectSettings.asset
+          projectPath: ProjectSettings\UnityConnectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: UnityPackageManager\manifest.json
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\UnityPackageManager\manifest.json
+          projectPath: UnityPackageManager\manifest.json
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: e4611686857dafb2811f52412f3bef5b9e503552
+        mergeA: 
+        mergeB: 
+        authorName: aLIEz2476
+        authorEmail: sakuragun11@gmail.com
+        commitEmail: sakuragun11@gmail.com
+        commitName: aLIEz2476
+        summary: 1
+        description: "1\r\n\r\n1"
+        timeString: 2018-04-23T16:12:03.0000000+09:00
+        commitTimeString: 2018-04-23T16:12:03.0000000+09:00
+        changes:
+        - path: Assets\Plugins.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins.meta
+          projectPath: Assets\Plugins.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub.meta
+          projectPath: Assets\Plugins\GitHub.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor.meta
+          projectPath: Assets\Plugins\GitHub\Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\CREDITS.txt
+          projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\EULA.txt
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\EULA.txt
+          projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.so
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: ed600aced37bea62703cba4df474227e650040d7
+        mergeA: 
+        mergeB: 
+        authorName: aLIEz2476
+        authorEmail: sakuragun11@gmail.com
+        commitEmail: sakuragun11@gmail.com
+        commitName: aLIEz2476
+        summary: 1
+        description: 1
+        timeString: 2018-04-23T16:08:01.0000000+09:00
+        commitTimeString: 2018-04-23T16:08:01.0000000+09:00
+        changes:
+        - path: .gitattributes
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: .gitignore
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\.gitignore
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: e423ec0a0c85aa6e6b2596b8209d44b70e7509d1
+        mergeA: 
+        mergeB: 
+        authorName: aLIEz2476
+        authorEmail: sakuragun11@gmail.com
+        commitEmail: noreply@github.com
+        commitName: GitHub
+        summary: Initial commit
+        description: Initial commit
+        timeString: 2018-04-23T15:31:11.0000000+09:00
+        commitTimeString: 2018-04-23T15:31:11.0000000+09:00
+        changes:
+        - path: README.md
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\README.md
+          projectPath: README.md
+          originalPath: 
+          status: 4
+          staged: 0
+      statusAhead: 0
+      selectedIndex: 0
+    selectedEntry:
+      commitID: c07ccfee20cf7bdcf88a06b1ee18d236a12f6605
+      mergeA: 
+      mergeB: 
+      authorName: aLIEz2476
+      authorEmail: sakuragun11@gmail.com
+      commitEmail: sakuragun11@gmail.com
+      commitName: aLIEz2476
+      summary: 1
+      description: "1\r\n\r\n1"
+      timeString: 2018-04-23T16:14:06.0000000+09:00
+      commitTimeString: 2018-04-23T16:14:06.0000000+09:00
+      changes:
+      - path: ProjectSettings\AudioManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\AudioManager.asset
+        projectPath: ProjectSettings\AudioManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ClusterInputManager.asset
+        projectPath: ProjectSettings\ClusterInputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\DynamicsManager.asset
+        projectPath: ProjectSettings\DynamicsManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorSettings.asset
+        projectPath: ProjectSettings\EditorSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\GraphicsSettings.asset
+        projectPath: ProjectSettings\GraphicsSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\InputManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\InputManager.asset
+        projectPath: ProjectSettings\InputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NavMeshAreas.asset
+        projectPath: ProjectSettings\NavMeshAreas.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NetworkManager.asset
+        projectPath: ProjectSettings\NetworkManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\Physics2DSettings.asset
+        projectPath: ProjectSettings\Physics2DSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+        projectPath: ProjectSettings\ProjectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectVersion.txt
+        projectPath: ProjectSettings\ProjectVersion.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\QualitySettings.asset
+        projectPath: ProjectSettings\QualitySettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TagManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TagManager.asset
+        projectPath: ProjectSettings\TagManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TimeManager.asset
+        projectPath: ProjectSettings\TimeManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\UnityConnectSettings.asset
+        projectPath: ProjectSettings\UnityConnectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: UnityPackageManager\manifest.json
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\UnityPackageManager\manifest.json
+        projectPath: UnityPackageManager\manifest.json
+        originalPath: 
+        status: 4
+        staged: 0
+    detailsScroll: {x: 0, y: 0}
+    logEntries:
+    - commitID: c07ccfee20cf7bdcf88a06b1ee18d236a12f6605
+      mergeA: 
+      mergeB: 
+      authorName: aLIEz2476
+      authorEmail: sakuragun11@gmail.com
+      commitEmail: sakuragun11@gmail.com
+      commitName: aLIEz2476
+      summary: 1
+      description: "1\r\n\r\n1"
+      timeString: 2018-04-23T16:14:06.0000000+09:00
+      commitTimeString: 2018-04-23T16:14:06.0000000+09:00
+      changes:
+      - path: ProjectSettings\AudioManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\AudioManager.asset
+        projectPath: ProjectSettings\AudioManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ClusterInputManager.asset
+        projectPath: ProjectSettings\ClusterInputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\DynamicsManager.asset
+        projectPath: ProjectSettings\DynamicsManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorSettings.asset
+        projectPath: ProjectSettings\EditorSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\GraphicsSettings.asset
+        projectPath: ProjectSettings\GraphicsSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\InputManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\InputManager.asset
+        projectPath: ProjectSettings\InputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NavMeshAreas.asset
+        projectPath: ProjectSettings\NavMeshAreas.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NetworkManager.asset
+        projectPath: ProjectSettings\NetworkManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\Physics2DSettings.asset
+        projectPath: ProjectSettings\Physics2DSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+        projectPath: ProjectSettings\ProjectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectVersion.txt
+        projectPath: ProjectSettings\ProjectVersion.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\QualitySettings.asset
+        projectPath: ProjectSettings\QualitySettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TagManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TagManager.asset
+        projectPath: ProjectSettings\TagManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TimeManager.asset
+        projectPath: ProjectSettings\TimeManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\UnityConnectSettings.asset
+        projectPath: ProjectSettings\UnityConnectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: UnityPackageManager\manifest.json
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\UnityPackageManager\manifest.json
+        projectPath: UnityPackageManager\manifest.json
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: e4611686857dafb2811f52412f3bef5b9e503552
+      mergeA: 
+      mergeB: 
+      authorName: aLIEz2476
+      authorEmail: sakuragun11@gmail.com
+      commitEmail: sakuragun11@gmail.com
+      commitName: aLIEz2476
+      summary: 1
+      description: "1\r\n\r\n1"
+      timeString: 2018-04-23T16:12:03.0000000+09:00
+      commitTimeString: 2018-04-23T16:12:03.0000000+09:00
+      changes:
+      - path: Assets\Plugins.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins.meta
+        projectPath: Assets\Plugins.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub.meta
+        projectPath: Assets\Plugins\GitHub.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor.meta
+        projectPath: Assets\Plugins\GitHub\Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\CREDITS.txt
+        projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\EULA.txt
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\EULA.txt
+        projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+        projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+        projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+        projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.so
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: ed600aced37bea62703cba4df474227e650040d7
+      mergeA: 
+      mergeB: 
+      authorName: aLIEz2476
+      authorEmail: sakuragun11@gmail.com
+      commitEmail: sakuragun11@gmail.com
+      commitName: aLIEz2476
+      summary: 1
+      description: 1
+      timeString: 2018-04-23T16:08:01.0000000+09:00
+      commitTimeString: 2018-04-23T16:08:01.0000000+09:00
+      changes:
+      - path: .gitattributes
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: .gitignore
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: e423ec0a0c85aa6e6b2596b8209d44b70e7509d1
+      mergeA: 
+      mergeB: 
+      authorName: aLIEz2476
+      authorEmail: sakuragun11@gmail.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-04-23T15:31:11.0000000+09:00
+      commitTimeString: 2018-04-23T15:31:11.0000000+09:00
+      changes:
+      - path: README.md
+        fullPath: C:\Users\Administrator\Documents\DLL_Test\README.md
+        projectPath: README.md
+        originalPath: 
+        status: 4
+        staged: 0
+    statusAhead: 0
+    statusBehind: 0
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys:
+        - ProjectSettings
+        - UnityPackageManager
+        values:
+        - path: ProjectSettings
+          label: ProjectSettings
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: UnityPackageManager
+          label: UnityPackageManager
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 0
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: ProjectSettings
+        label: ProjectSettings
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: ProjectSettings\AudioManager.asset
+        label: AudioManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\AudioManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\AudioManager.asset
+          projectPath: ProjectSettings\AudioManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        label: ClusterInputManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ClusterInputManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ClusterInputManager.asset
+          projectPath: ProjectSettings\ClusterInputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        label: DynamicsManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\DynamicsManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\DynamicsManager.asset
+          projectPath: ProjectSettings\DynamicsManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        label: EditorBuildSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        label: EditorSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\EditorSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\EditorSettings.asset
+          projectPath: ProjectSettings\EditorSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        label: GraphicsSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\GraphicsSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\GraphicsSettings.asset
+          projectPath: ProjectSettings\GraphicsSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\InputManager.asset
+        label: InputManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\InputManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\InputManager.asset
+          projectPath: ProjectSettings\InputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        label: NavMeshAreas.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\NavMeshAreas.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NavMeshAreas.asset
+          projectPath: ProjectSettings\NavMeshAreas.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        label: NetworkManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\NetworkManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\NetworkManager.asset
+          projectPath: ProjectSettings\NetworkManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        label: Physics2DSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\Physics2DSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\Physics2DSettings.asset
+          projectPath: ProjectSettings\Physics2DSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        label: ProjectSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ProjectSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        label: ProjectVersion.txt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ProjectVersion.txt
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\ProjectVersion.txt
+          projectPath: ProjectSettings\ProjectVersion.txt
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        label: QualitySettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\QualitySettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\QualitySettings.asset
+          projectPath: ProjectSettings\QualitySettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\TagManager.asset
+        label: TagManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\TagManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        label: TimeManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\TimeManager.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\TimeManager.asset
+          projectPath: ProjectSettings\TimeManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        label: UnityConnectSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\UnityConnectSettings.asset
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\ProjectSettings\UnityConnectSettings.asset
+          projectPath: ProjectSettings\UnityConnectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: UnityPackageManager
+        label: UnityPackageManager
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: UnityPackageManager\manifest.json
+        label: manifest.json
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: UnityPackageManager\manifest.json
+          fullPath: C:\Users\Administrator\Documents\DLL_Test\UnityPackageManager\manifest.json
+          projectPath: UnityPackageManager\manifest.json
+          originalPath: 
+          status: 4
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-04-23T16:23:32.4615809+09:00
+      cacheType: 1
+    lastLogChangedEvent:
+      updatedTimeString: 2018-04-23T16:23:32.4896555+09:00
+      cacheType: 3
+    lastAheadBehindChangedEvent:
+      updatedTimeString: 2018-04-23T16:23:32.4736144+09:00
+      cacheType: 4
+  settingsView:
+    gitPathView:
+      gitExec: C:\Users\Administrator\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe
+      gitExecParent: C:\Users\Administrator\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd
+      gitExecExtension: exe
+      newGitExec: C:\Users\Administrator\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe
+      isValueChanged: 0
+      isValueChangedAndFileExists: 0
+      gitFileErrorMessage: 
+      gitVersionErrorMessage: 
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-04-23T16:22:13.6955770+09:00
+      cacheType: 1
+    lastLocksChangedEvent:
+      updatedTimeString: 2018-04-23T16:21:34.5900239+09:00
+      cacheType: 6
+    lockedFiles: []
+    lockedFileSelection: -1
+    lockScrollPos: {x: 0, y: 0}
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://github.com/aLIEz2476/UnityTest.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/aLIEz2476/UnityTest.git
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: aLIEz2476
+      gitEmail: sakuragun11@gmail.com
+      newGitName: aLIEz2476
+      newGitEmail: sakuragun11@gmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2018-04-23T16:11:54.1092840+09:00
+        cacheType: 7
+    webTimeout: 3000
+  repoRemote: 
+  repoBranch: 
+  repoUrl: https://github.com/aLIEz2476/UnityTest.git
+  repoBranchContent:
+    m_Text: 
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  repoUrlContent:
+    m_Text: https://github.com/aLIEz2476/UnityTest.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Add a remote in the Settings tab
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2018-04-23T16:23:32.4615809+09:00
+    cacheType: 1
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 468
+    y: 181
+    width: 973
+    height: 501
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 687
+    width: 1529
+    height: 331
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\Administrator\Documents\DLL_Test
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 682b0000
+    m_LastClickedID: 11112
+    m_ExpandedIDs: 0000000060340000f6340000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000060340000f6340000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 302e0000
+    m_LastClickedInstanceID: 11824
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1533
+    y: 92
+    width: 387
+    height: 926
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 92
+    width: 377
+    height: 574
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 22ecffff
+    m_LastClickedID: -5086
+    m_ExpandedIDs: 30f3ffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 4}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - MainTest
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 381
+    y: 92
+    width: 1148
+    height: 574
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 0
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    speed: 2
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_Size:
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 381
+    y: 92
+    width: 1148
+    height: 574
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -574
+    m_HBaseRangeMax: 574
+    m_VBaseRangeMin: -278.5
+    m_VBaseRangeMax: 278.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 1148
+      height: 557
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 574, y: 278.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -574
+      y: -278.5
+      width: 1148
+      height: 557
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1148, y: 574}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 687
+    width: 1529
+    height: 331
+  m_PersistentViewDataDictionary: {fileID: 0}
